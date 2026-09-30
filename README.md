@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff71ce,50:b967ff,100:01cdfe&text=TU_NOMBRE&fontColor=fffb96&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Night%20Drive%20Mode&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff71ce,50:b967ff,100:01cdfe&text=Alvaro_Gustavo_LT&fontColor=fffb96&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Night%20Drive%20Mode&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF71CE&center=true&vCenter=true&width=600&lines=%24+whoami;Ingeniero+de+Software+egresado;CI%2FCD+%7C+Docker+%7C+Linux+%7C+Cloud;Deploying+under+neon+lights..." />
 
