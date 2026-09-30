@@ -13,13 +13,13 @@
 ### `~/about`
 
 ```bash
-tu_usuario@citypop:~$ cat about.txt
+Alvaro-Gustavo@citypop:~$ cat about.txt
 > Ingeniero de Software  ·  La Paz, Bolivia
-> Enfocado en: backend, automatización y DevOps
+> Enfocado en: backend, Fronted , automatización y DevOps
 > Aprendiendo: Kubernetes, Terraform, observabilidad
 > Soundtrack: Mariya Takeuchi, Tatsuro Yamashita, Anri
 
-tu_usuario@citypop:~$ uptime
+Alvaro-Gustavo@citypop:~$ uptime
 > building, shipping and learning since 2026
 ```
 
@@ -51,9 +51,9 @@ tu_usuario@citypop:~$ uptime
 ### `~/contact`
 
 ```bash
-tu_usuario@citypop:~$ ./contact.sh
-> linkedin : linkedin.com/in/TU_USUARIO
-> email    : tu_correo@ejemplo.com
+Alvaro-Gustavo@citypop:~$ ./contact.sh
+> linkedin : https://www.linkedin.com/in/alvaro-torrez-sistemas
+> email    : alvarogustavotorrez99@gmail.com
 > status   : open to work
 ```
 
