@@ -34,18 +34,18 @@ Alvaro-Gustavo@citypop:~$ uptime
 
 | Proyecto | Descripcion | Stack |
 |---|---|---|
-| [**PROYECTO_1**](https://github.com/TU_USUARIO/PROYECTO_1) | Que problema resuelve en una linea | `Node` `Docker` `Postgres` |
-| [**PROYECTO_2**](https://github.com/TU_USUARIO/PROYECTO_2) | Que problema resuelve en una linea | `Python` `GitHub Actions` |
+| [**Tutorías Pares**](https://github.com/Alvaro-Gustavo/sistema-tutorias-pares) | Sistema de gestión de tutorías académicas con reservas y bitácoras | `React` `Node.js` `PostgreSQL` |
+| [**PROYECTO_2**](https://github.com/Alvaro-Gustavo/PROYECTO_2) | Que problema resuelve en una linea | `Python` `GitHub Actions` |
 
 ### `~/stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=1a1030&title_color=ff71ce&icon_color=01cdfe&text_color=fffb96" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=1a1030&title_color=ff71ce&text_color=fffb96" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alvaro-Gustavo&show_icons=true&hide_border=true&bg_color=1a1030&title_color=ff71ce&icon_color=01cdfe&text_color=fffb96" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Gustavo&layout=compact&hide_border=true&bg_color=1a1030&title_color=ff71ce&text_color=fffb96" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=1a1030&color=fffb96&line=ff71ce&point=01cdfe&area=true&area_color=b967ff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvaro-Gustavo&bg_color=1a1030&color=fffb96&line=ff71ce&point=01cdfe&area=true&area_color=b967ff&hide_border=true" />
 </p>
 
 ### `~/contact`
