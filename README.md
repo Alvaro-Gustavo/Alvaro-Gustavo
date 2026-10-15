@@ -35,7 +35,7 @@ Alvaro-Gustavo@citypop:~$ uptime
 | Proyecto | Descripcion | Stack |
 |---|---|---|
 | [**Tutorías Pares**](https://github.com/Alvaro-Gustavo/sistema-tutorias-pares) | Sistema de gestión de tutorías académicas con reservas y bitácoras | `React` `Node.js` `PostgreSQL` |
-| [**PROYECTO_2**](https://github.com/Alvaro-Gustavo/PROYECTO_2) | Que problema resuelve en una linea | `Python` `GitHub Actions` |
+| [**SCSS Legal**](https://github.com/Alvaro-Gustavo/repositorio-scsl) | Plataforma web para repositorios de documentos legales y automatización | `Next.js` `NestJS` `PostgreSQL` `Python`|
 
 ### `~/stats`
 
